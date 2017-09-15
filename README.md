@@ -1,2 +1,2 @@
-# searchview_demo_android
+# SearchView Demo
 Show cases searchable list
